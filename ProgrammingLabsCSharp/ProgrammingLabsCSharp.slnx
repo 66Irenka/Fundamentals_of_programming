@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Lab01_Functions/Lab01_Functions.csproj" />
+  <Project Path="Lab02_Classes/Lab02_Classes.csproj" />
+  <Project Path="Lab03_IndexersProperties/Lab03_IndexersProperties.csproj" />
+  <Project Path="Lab04_OperatorOverloading/Lab04_OperatorOverloading.csproj" />
+  <Project Path="Lab05_Inheritance/Lab05_Inheritance.csproj" />
+  <Project Path="Lab06_Polymorphism/Lab06_Polymorphism.csproj" />
+  <Project Path="Lab07_Exceptions/Lab07_Exceptions.csproj" />
+</Solution>
